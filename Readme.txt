@@ -1,3 +1,9 @@
+How to run it:
+ - Open Visual Studiio (2017)
+ - Load the solution file SnakesAndLadders.sln
+ - Build the solution and make nuget to install all the packages
+ - Run the tests in the SnakesAndLadders.UnitTests project 
+
 1) How did you approach the problem?
 In this case I used TDD methodology, refactoring the code when necessary.
 
